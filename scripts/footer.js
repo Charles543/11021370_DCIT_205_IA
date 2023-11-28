@@ -17,9 +17,9 @@ const footerHTML = `
         <div class="ft-rw-cols">
             <h2>Admissions</h2>
             <ul class="ft-ul">
-                <li><a href="undergrad.html">Undergraduate</a></li>
+                <li><a href="undergraduate.html">Undergraduate</a></li>
                 <li><a href="msc-mphil.html">Graduate</a></li>
-                <li><a href="undergrad.html">International Students</a></li>
+                <li><a href="undergraduate.html">International Students</a></li>
                 <li><a href="https://www.ug.edu.gh">Entry Requirements</a></li>
                 <li><a href="about.html">Contact Us</a></li>
             </ul>
@@ -35,8 +35,8 @@ const footerHTML = `
         <div class="ft-rw-cols">
             <h2>About the Department</h2>
             <ul class="ft-ul">
-                <li><a href="index.html">Introducing DCS</a></li>
-                <li><a href="index.html">Head of Department's Office</a></li>
+                <li><a href="home.html">Introducing DCS</a></li>
+                <li><a href="home.html">Head of Department's Office</a></li>
                 <li><a href="faculty.html">Faculty</a></li>
                 <li><a href="events.html">Events</a></li>
             </ul>
@@ -58,19 +58,19 @@ const footerHTML = `
         <div class="ft-rw-cols">
             <h2>Contact Us</h2>
             <ul class="ft-ul">
-                <li><a href="">Introducing DCS</a></li>
-                <li><a href="">Head of Department's Office</a></li>
-                <li><a href="">Faculty</a></li>
-                <li><a href="">Events</a></li>
+                <li><a href="home.html">Introducing DCS</a></li>
+                <li><a href="faculty.html">Head of Department's Office</a></li>
+                <li><a href="faculty.html">Faculty</a></li>
+                <li><a href="events.html">Events</a></li>
             </ul>
         </div>
         <div class="ft-rw-cols">
             <h2>Location</h2>
             <ul class="ft-ul">
-                <li><a href="">Introducing DCS</a></li>
-                <li><a href="">Head of Department's Office</a></li>
-                <li><a href="">Faculty</a></li>
-                <li><a href="">Events</a></li>
+                <li><a href="home.html">Introducing DCS</a></li>
+                <li><a href="faculty.html">Head of Department's Office</a></li>
+                <li><a href="faculty.html">Faculty</a></li>
+                <li><a href="events.html">Events</a></li>
             </ul>
         </div>
     </div>

@@ -5,7 +5,7 @@ const headerHTML = `
                 <img src="assets/images/logo.png" alt="logo">
             </div>
             <ul class="nav-links">
-                <li><a href="index.html">HOME</a></li>
+                <li><a href="home.html">HOME</a></li>
                 <li><a href="about.html">ABOUT</a></li>
                 <li><a href="faculty.html">FACULTY</a></li>
                 <li><a href="research-groups.html">RESEARCH GROUPS</a></li>
@@ -21,7 +21,7 @@ const headerHTML = `
                     </div>
                 </div>
                 <ul class="mobile-list">
-                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="home.html">HOME</a></li>
                     <li><a href="about.html">ABOUT</a></li>
                     <li><a href="faculty.html">FACULTY</a></li>
                     <li><a href="research-groups.html">RESEARCH GROUPS</a></li>
